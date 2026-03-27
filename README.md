@@ -83,10 +83,10 @@
 
 ## GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nattsoah&show_icons=true&theme=dark&include_all_commits=true" height="170px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nattsoah&layout=compact&theme=dark" height="170px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nattsoah&show_icons=true&theme=default&include_all_commits=true" height="170px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nattsoah&layout=compact&theme=default" height="170px" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=nattsoah&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=nattsoah&theme=default" />
 </div>  
 
 <br/>  
