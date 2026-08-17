@@ -2,9 +2,9 @@
 
 **Software Engineering / Full Stack Developer**
 
-🎓 College of Computing, KKU 
-💼 ex-Intern @ Foxbith
-[nattsoah.vercel.app](https://nattsoah.vercel.app/)
+🎓 College of Computing, KKU <br>
+💼 ex-Intern @ Foxbith <br>
+🌎 [nattsoah.vercel.app](https://nattsoah.vercel.app/)
 
 ---
 
@@ -39,9 +39,6 @@
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nattsoah&show_icons=true&theme=default&include_all_commits=true" height="170px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nattsoah&layout=compact&theme=default" height="170px" />
-  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=nattsoah&theme=default" />
 </div>
 
